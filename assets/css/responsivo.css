@@ -1,0 +1,14 @@
+@media (max-width: 760px) {
+    main{
+        padding: 0;
+    }
+
+    .container{
+        border-radius: 0;
+    }
+
+    .container img{
+        padding: 0;
+        border-radius: 0;
+    }
+}
