@@ -28,8 +28,8 @@ Aproximadamente 2 horas
 
 ### Screenshots
 
-![Desktop solution](./screenshots/desktop-1.pnghot.jpg)
-![Desktop solution](./screenshots/desktop-2.pnghot.jpg)
+![Desktop solution](./screenshots/desktop-1.png)
+![Desktop solution](./screenshots/desktop-2.png)
 
 ![Mobile solution](./screenshots/mobile-1.png)
 ![Mobile solution](./screenshots/mobile-2.png)
