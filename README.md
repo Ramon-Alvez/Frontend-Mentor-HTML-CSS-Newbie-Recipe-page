@@ -37,8 +37,8 @@ Aproximadamente 2 horas
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Ramon-Alvez/Recipe-page-Frontend-Mentor-))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Ramon-Alvez/Recipe-page-Frontend-Mentor-)
+- Live Site URL: (https://ramon-alvez.github.io/Recipe-page-Frontend-Mentor/)
 
 ## My process
 
