@@ -1,14 +1,14 @@
 @media (max-width: 760px) {
-    main{
-        padding: 0;
-    }
-
     .container{
         border-radius: 0;
+        margin: 0;
     }
 
-    .container img{
-        padding: 0;
+    .container .imagem-receita {
+        margin: 0;
+    }
+
+    .container .imagem-receita img {
         border-radius: 0;
     }
 }

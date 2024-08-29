@@ -1,18 +1,4 @@
-.cor{
-    background-color: 
-    hsl(30, 54%, 90%) /* Stone 100: */
-    hsl(30, 18%, 87%) /* Stone 150: */
-    hsl(30, 10%, 34%) /* Stone 600: */
-    hsl(24, 5%, 18%) /* Stone 900: */
-    
-    hsl(14, 45%, 36%) /* Brown 800: */
-    
-    hsl(332, 51%, 32%) /* Rose 800: */
-    hsl(330, 100%, 98%) /* Rose 50: */
-    ;
-}
-
-main{
+body{
     background-color: hsl(30, 54%, 90%) /* Stone 100: */;
     min-height: 100vh;
     width: 100%;
@@ -20,102 +6,92 @@ main{
     flex-direction: column;
     align-items: center;
     font-family: "Outfit", serif;
-    padding: 100px 0;
+    color: hsl(30, 10%, 34%);
 }
 
-hr {
-    border-color: hsla(30, 10%, 34%, 0.1);
-}
-
-h1{
-    font-family: "Young Serif", serif;
+.titulo-receita{
     color: hsl(24, 5%, 18%);
-}
-
-h2{
-    color: hsl(14, 45%, 36%);
-    font-weight: 700;
+    font-family: "Young Serif", serif;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
-p{
-    color: hsl(30, 10%, 34%);
-}
-
-li{
-    color: hsl(30, 10%, 34%);
-    margin-left: 20px;
-    padding: 10px;
-}
-
-li::marker{
+.sub-titulo{
     color: hsl(14, 45%, 36%);
-    font-weight: 600;
+    font-weight: 700;
+    margin: 20px 0;
 }
 
 .container{
     background-color: white;
     max-width: 750px;
-    border-radius: 20px;
+    border-radius: 30px;
+    margin: 60px 0;
+    }
+
+    .container .imagem-receita {
+        margin: 40px;
+    }
+
+    .container .imagem-receita img {
+        width: 100%;
+        border-radius: 15px;
 }
 
-.container img{
-    width: 100%;
-    padding: 40px;
-    border-radius: 50px;
-}
-
-.receita{
-    width: 100%;
-    padding: 40px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+section {
+    margin: 40px;
 }
 
 .preparacao{
     background-color:  hsl(330, 100%, 98%);
     padding: 30px;
     border-radius: 10px;
+    }
+
+    .preparacao .sub-titulo{
+        color: hsl(332, 51%, 32%);
+        margin-top: 0;
+    }
+
+    .preparacao li{
+        padding: 10px 30px ;
+    }
+
+    .preparacao li::marker{
+        color: hsl(332, 51%, 32%);
 }
 
-.preparacao h2{
-    color: hsl(332, 51%, 32%);
-}
-
-.preparacao li{
-    padding: 10px 30px ;
-}
-
-.preparacao li::marker{
-    color: hsl(332, 51%, 32%);
+.divisor {
+    border-color: hsla(30, 10%, 34%, 0.1);
+    margin-top: 40px;
 }
 
 .instrucoes strong{
     font-weight: 600;
 }
 
-.nutricao p{
-    margin: 10px 0;
+table {
+    width: 100%;
+    }
+
+    table tr {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        height: 50px;
+        align-items: center;
+        border-bottom: 1px solid hsla(30, 10%, 34%, 0.1);
+    }
+
+    table tr .tipo-nutricional {
+        margin-left: 30px;
+    }
+
+    table tr .valor-nutricional {
+        color: hsl(14, 45%, 36%);
+        font-weight: 600;
 }
 
-.infos{
-    display: flex;
-}
-
-.infos p{
-    width: 50%;
-    padding-left: 30px;
-    align-self: center;
-}
-
-.qtd{
-    color: hsl(14, 45%, 36%);
-    font-weight: 600;
-    align-self: center;
-}
-
-footer{
+.rodape{
     margin: 20px 0;
 }
 
@@ -126,4 +102,4 @@ footer{
 
   .attribution a {
     color: hsl(228, 45%, 44%);
-  }
+} 
