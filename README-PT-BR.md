@@ -53,8 +53,8 @@ Aqui esta alguns prints da página
 
 ### Links
 
-- URL da solução: (https://github.com/Ramon-Alvez/Recipe-page-Frontend-Mentor-)
-- URL do Site: (https://ramon-alvez.github.io/Recipe-page-Frontend-Mentor/)
+- URL do FrontEnd Mentor: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/resoluo---recipe-page-html5-e-css-1-newbie-AgDE6G9zud)
+- URL do Site: [Live Site](https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-Recipe-page/)
 
 [Índice](#conteúdo) - Clique para voltar para o índice "Conteúdo"
 
