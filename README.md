@@ -53,8 +53,8 @@ Here some pics of the solution
 
 ### Links
 
-- Solution URL: (https://github.com/Ramon-Alvez/Recipe-page-Frontend-Mentor-)
-- Live Site URL: (https://ramon-alvez.github.io/Recipe-page-Frontend-Mentor/)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/resoluo---recipe-page-html5-e-css-1-newbie-AgDE6G9zud)
+- Live Site URL: [Live Site](https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-Recipe-page/)
 
 [Table of contents](#table-of-contents) - Click to return to the index "Table of contents"
 
